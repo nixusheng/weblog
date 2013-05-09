@@ -1,0 +1,4 @@
+
+permalink:     weblog/:title.html
+markdown: kramdown
+
