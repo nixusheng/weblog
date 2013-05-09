@@ -1,4 +1,2 @@
-
-permalink:     weblog/:title.html
-markdown: kramdown
+permalink:  :title.html
 
